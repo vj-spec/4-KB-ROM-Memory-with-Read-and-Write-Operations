@@ -1,4 +1,4 @@
-# KB-ROM-Memory-with-Read-and-Write-Operations
+# 4 KB-ROM-Memory-with-Read-and-Write-Operations
 Aim
 To design and simulate a 4KB ROM memory with read and write operations using Verilog HDL and verify the functionality through a testbench in the Vivado 2023.1 simulation environment.
 
