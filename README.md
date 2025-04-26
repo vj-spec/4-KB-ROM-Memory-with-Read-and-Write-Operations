@@ -57,6 +57,9 @@ module rom_memory (
 endmodule
 
 
+![ROm_testbench](https://github.com/user-attachments/assets/62820cc2-d236-4ae9-b0ff-d7dc939caea5)
+
+
 Testbench for 4KB ROM Memory
 
 // rom_memory_tb.v
