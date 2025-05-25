@@ -56,7 +56,7 @@ module rom_memory (
     end
 endmodule
 ```
-
+## Output:
 ![ROm_testbench](https://github.com/user-attachments/assets/62820cc2-d236-4ae9-b0ff-d7dc939caea5)
 
 
